@@ -3,6 +3,6 @@ import html from 'choo/html'
 export default () => {
 
   return html `
-    <div> Hello from Choo...! </div>
+    <div class="header"> Hello from Choo...! </div>
   `
 }
